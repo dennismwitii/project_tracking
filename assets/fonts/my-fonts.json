@@ -1,0 +1,44 @@
+[
+    {
+      "id": "1",
+      "font_cdn": "https://fonts.googleapis.com/css?family=Roboto&display=swap",
+      "font_name": "Roboto",
+      "font_family": "'Roboto', sans-serif",
+      "class": "roboto"
+    },
+    {
+      "id": "2",
+      "font_cdn": "https://fonts.googleapis.com/css?family=Lato&display=swap",
+      "font_name": "Lato",
+      "font_family": "'Lato', sans-serif",
+      "class": "lato"
+    },
+    {
+      "id": "3",
+      "font_cdn": "https://fonts.googleapis.com/css?family=PT+Sans&display=swap",
+      "font_name": "PT Sans",
+      "font_family": "'PT Sans', sans-serif",
+      "class": "pt_sans"
+    },
+    {
+      "id": "4",
+      "font_cdn": "https://fonts.googleapis.com/css?family=Baloo+Bhai+2&display=swap",
+      "font_name": "Baloo Bhai 2",
+      "font_family": "'Baloo Bhai 2', cursive",
+      "class": "baloo_bhai_2"
+    },
+  {
+    "id": "5",
+    "font_cdn": "https://fonts.googleapis.com/css?family=Noto+Sans&display=swap",
+    "font_name": "Nato Sans",
+    "font_family": "'Noto Sans', sans-serif",
+    "class": "nato_sans"
+  },
+  {
+    "id": "6",
+    "font_cdn": "https://fonts.googleapis.com/css?family=Pacifico&display=swap",
+    "font_name": "Pacifico",
+    "font_family": "'Pacifico', cursive;",
+    "class": "pacifico"
+  }
+]
